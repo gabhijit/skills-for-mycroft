@@ -1,0 +1,7 @@
+{
+  "utterance": "giveme  cricket updates",
+  "intent_type": "CricketIntent",
+  "intent": {
+      "CricketKeyword": "cricket updates"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "utterance": "give the train pnr status of 1234567890",
+  "intent_type": "RailPnrStatusIntent",
+  "intent": {
+      "RailPnrStatusKeyword": "pnr status",
+      "PnrNumber": "1234567890"
+  }
+}

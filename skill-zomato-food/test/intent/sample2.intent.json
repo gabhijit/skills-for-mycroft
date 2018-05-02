@@ -1,0 +1,7 @@
+{
+  "utterance": "what is my city id",
+  "intent_type": "ZomatoCityIdIntent",
+  "intent": {
+      "ZomatoCityIdKeyword": "city id"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "utterance": "finish taking notes for meeting",
+  "intent_type": "StopNotesIntent",
+  "intent": {
+      "StopNotesKeyword": "finish ",
+      "Topicname": "meeting"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "utterance": "give the train status for 12046 on 24-01-2018",
+  "intent_type": "RailTrainStatusIntent",
+  "intent": {
+      "RailTrainStatusKeyword": "train status",
+      "TrainNumber": "12046",
+      "Date": "24-01-2018"
+  }
+}

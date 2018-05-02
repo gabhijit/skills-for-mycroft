@@ -1,0 +1,7 @@
+{
+  "utterance": "zomato kaun kaun se bhojan prakaar hai",
+  "intent_type": "ZomatoCuisineIntent",
+  "intent": {
+      "ZomatoCuisineKeyword": "zomato bhojan prakaar"
+  }
+}

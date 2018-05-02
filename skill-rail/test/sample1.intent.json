@@ -1,0 +1,8 @@
+{
+  "utterance": "give the station code for mumbai",
+  "intent_type": "RailCodeIntent",
+  "intent": {
+      "RailCodeKeyword": "station code",
+      "Pname": "mumbai"
+  }
+}

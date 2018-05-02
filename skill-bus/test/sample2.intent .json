@@ -1,0 +1,10 @@
+{
+  "utterance": "20180324 ko pune aur mumbai ke beech basen de do",
+  "intent_type": "BusTravelIntent",
+  "intent": {
+      "BusTravelKeyword": "ke beech bason",
+      "Source": "pune",
+      "Destination": "mumbai",
+      "Date": "20180324"
+  }
+}

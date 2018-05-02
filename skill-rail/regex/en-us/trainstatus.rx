@@ -1,0 +1,1 @@
+(trains status for|for|) (?P<TrainNumber>.*)

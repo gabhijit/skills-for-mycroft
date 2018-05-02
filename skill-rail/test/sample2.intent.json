@@ -1,0 +1,10 @@
+{
+  "utterance": "give the trains between pune and bct on 24/12/2017",
+  "intent_type": "RailTravelIntent",
+  "intent": {
+      "RailTravelKeyword": "trains between",
+      "Source": "pune",
+      "Destination": "bct",
+      "Date": "24/12/2017"
+  }
+}

@@ -1,0 +1,4 @@
+pnr status
+train pnr status of {{PnrNumber}}
+give me the train pnr status of {{PnrNumber}}
+tell me about the train train pnr status of {{PnrNumber}}

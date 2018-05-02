@@ -1,0 +1,8 @@
+{
+  "utterance": "take notes for meeting",
+  "intent_type": "NotesIntent",
+  "intent": {
+      "NotesKeyword": "notes",
+      "Topicname": "meeting"
+  }
+}

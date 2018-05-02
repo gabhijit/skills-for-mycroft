@@ -1,0 +1,8 @@
+{
+  "utterance": "zomato search for pizza",
+  "intent_type": "ZomatoSearchIntent",
+  "intent": {
+      "ZomatoSearchKeyword": "zomato search",
+      "Keyword": "pizza"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "utterance": "give the buses between pune and mumbai on 20180318",
+  "intent_type": "BusTravelIntent",
+  "intent": {
+      "BusTravelKeyword": "buses between",
+      "Source": "pune",
+      "Destination": "mumbai",
+      "Date": "20180318"
+  }
+}

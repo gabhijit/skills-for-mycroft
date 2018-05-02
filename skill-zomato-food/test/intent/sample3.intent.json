@@ -1,0 +1,7 @@
+{
+  "utterance": "zomato list the cuisines in my city",
+  "intent_type": "ZomatoCuisineIntent",
+  "intent": {
+      "ZomatoCuisineKeyword": "zomato cuisines"
+  }
+}

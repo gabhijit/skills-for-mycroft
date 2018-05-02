@@ -1,0 +1,8 @@
+{
+  "utterance": "Tell me the Horoscope of Leo for today",
+  "intent_type": "HoroscopeIntent",
+  "intent": {
+      "HoroscopeKeyword": "horoscope today",
+      "Sunsign": "Leo"
+  }
+}

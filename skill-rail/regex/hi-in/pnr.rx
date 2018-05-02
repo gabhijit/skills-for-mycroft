@@ -1,0 +1,1 @@
+(pnr status of|of|) (?P<PnrNumber>.*)

@@ -1,0 +1,8 @@
+{
+  "utterance": "Leo ka raashiphal batao",
+  "intent_type": "HoroscopeIntent",
+  "intent": {
+      "HoroscopeKeyword": "raashiphal",
+      "Sunsign": "Leo"
+  }
+}

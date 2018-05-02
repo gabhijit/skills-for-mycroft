@@ -1,0 +1,4 @@
+train status
+train status for {{TrainNumber}} on {{Date}}
+give me the live train status for {{TrainNumber}} on {{Date}}
+tell me about the train status for {{TrainNumber}} on {{Date}}

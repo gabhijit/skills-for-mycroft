@@ -1,0 +1,7 @@
+{
+  "utterance": "zomato list the food categories",
+  "intent_type": "ZomatoCategoryIntent",
+  "intent": {
+      "ZomatoCategoryKeyword": "zomato categories"
+  }
+}
